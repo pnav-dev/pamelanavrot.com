@@ -156,6 +156,11 @@ nav {
     font-family: 'PT Serif', sans-serif;
 }
 
+@media only screen and (max-width: 600px) {
+  html{
+    font-size: 10px;
+  }
+}
 
 footer{
   /*position: absolute;
